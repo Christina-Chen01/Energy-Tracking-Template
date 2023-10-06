@@ -1,0 +1,15 @@
+---
+title: "ES401 Shiny App Instruction"
+author: "Christina Chen"
+date: "12/12/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Instruction
+
+#### When you open the app.R file, you do not need to change anything except line 14, 32, 46.
+#### You need to adjust your directory to the specific dataset, namly find the path where the datasets are stored in your local computer. Then, you simply can copy and paste the new path name in between the two quotation mark " ". The path name should be green in the R.script if you adjust them correctly. 
